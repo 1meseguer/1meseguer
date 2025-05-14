@@ -1,8 +1,7 @@
 # Hi there! 👋 I'm Meseguer
 
 - 🎓 Software Engineer Student
-- 🌱 Currently learning **React**
-- 🚀 Building scalable applications and solving problems with code
+- 🌱 Currently learning **JavaScript**
 
 ---
 
