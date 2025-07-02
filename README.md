@@ -7,8 +7,6 @@
 
 ### 🛠️ Tech stack
 
-**Languages**
-
 ---
 
 ### 🔥 Future projects
