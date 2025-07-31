@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Meseguer
 
 - 🎓 Software Engineer Student
-- 🌱 Currently learning **Python**
+- 🌱 Currently learning **Lua**
 
 ---
 
@@ -11,9 +11,7 @@
 
 ### 🔥 Future projects
 
----
-
-### 📚 Currently Learning
+- Love2d Basic Game Structure
 
 ---
 
