@@ -1,5 +1,3 @@
-# Hi there! 👋 I'm Meseguer
-
 - 🎓 Software Engineer Student
 - 🌱 Currently learning **Lua**
 
