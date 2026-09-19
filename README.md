@@ -1,6 +1,6 @@
 - 🎓 Software Engineer Student
 - 🌱 Currently learning **C++**
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=1meseguer&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile views" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+</p>
